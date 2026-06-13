@@ -16,4 +16,4 @@ I'm against specific ML-solution that does not properly attribute and/or compens
 
 I believe our purchased hardware is ours to use however we like, and should not be locked-in by e.g. operating systems and such.
 
-...
+Everything I upload here is licensed by [NAIL 1.0](https://michaelodden.com/randoms/nail-michaeloddencom.html) unless otherwise specified at a more narrow scope (repository, folder within repository, file, function, etc).
